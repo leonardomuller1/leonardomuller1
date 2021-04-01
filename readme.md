@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Front-End developer, wanting to be FullStack, passionate about the best web. I have experience with projects using JavaScript, Jquery, AnimateCss, CSS3, HTML5,Slides.js, etc
+I am a Front-End developer, wanting to be FullStack, passionate about the best web. I have experience with projects using JavaScript, AnimateCss, CSS3, HTML5,Slides.js, etc
 
 
 
