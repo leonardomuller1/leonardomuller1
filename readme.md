@@ -7,7 +7,7 @@ I am a Front-End developer, wanting to be FullStack, passionate about the best w
 <div align="center" >
 
 
-[!](https://github-readme-stats.vercel.app/api?username=leonardomuller1&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)(https://github.com/anuraghazra/github-readme-stats) 
+[!](https://github-readme-stats.vercel.app/api?username=leonardomuller1&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)[!](https://github.com/anuraghazra/github-readme-stats) 
 [!](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomuller1&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
