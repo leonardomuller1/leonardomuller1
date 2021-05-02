@@ -7,7 +7,7 @@ I am a Front-End developer, wanting to be FullStack, passionate about the best w
 <div align="center" >
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomuller1&layout=compact&how_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardomuller1&layout=compact&text_color=718096&bg_color=ffffff00&hide_border=true&layout=compact" />
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
