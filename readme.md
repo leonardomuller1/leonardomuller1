@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Front-End developer, wanting to be FullStack, passionate about the best web. I have experience with projects using JavaScript,CSS3, HTML5 and plugins JavaScript...
+I am a Front-End developer, wanting to be FullStack, passionate about the best web. I have experience with projects using JavaScript,CSS3, HTML5...
 
 
 
