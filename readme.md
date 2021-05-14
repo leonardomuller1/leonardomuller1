@@ -17,6 +17,7 @@ I am a Front-End developer, wanting to be FullStack, passionate about the best w
 <h3> Ferramentas </h3>
  
  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+ ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
 </div>
