@@ -57,14 +57,6 @@ Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um 
         alt="Github Stats"
       />
     </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomuller1&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
   </tr>
 </table>
 
