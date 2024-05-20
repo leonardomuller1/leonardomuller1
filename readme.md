@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é {seu nome}!
+## 🧡 Olá, meu nome é {Leonardo Muller}!
 
-Faça uma breve aprensentação sobre você e a sua stack.
+Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um interesse especial em micro-SaaS como side-jobs. Minha stack de tecnologia é composta por React, Firebase, Node.js, Supabase, MongoDB e TypeScript, o que me permite criar aplicações web eficientes e escaláveis. Estou sempre em busca de novos desafios para aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
@@ -16,13 +16,8 @@ Faça uma breve aprensentação sobre você e a sua stack.
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-
 ---
 
 ## ⭐ GitHub Stats
