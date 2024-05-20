@@ -22,7 +22,7 @@ Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um 
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardomuller1&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
