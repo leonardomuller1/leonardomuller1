@@ -10,16 +10,15 @@ Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um 
 
 ## 🚀 Minhas Skills
 
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Mongo DB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
 <br/>
 
@@ -62,7 +61,7 @@ Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um 
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=leonardomuller1&theme=dark&hide_border=false"
         alt="Github Stats"
       />
     </td>
@@ -71,6 +70,6 @@ Sou um programador júnior apaixonado pelo universo das startups e SaaS, com um 
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devleonardomuller/)](https://www.linkedin.com/in/devleonardomuller/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devleonardomuller@gmail.com)](mailto:devleonardomuller@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-devleonardomuller-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devleonardomuller/)](https://www.linkedin.com/in/devleonardomuller/)
+[![Gmail Badge](https://img.shields.io/badge/-devleonardomuller@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devleonardomuller@gmail.com)](mailto:devleonardomuller@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/leonardomuller1?label=follow&style=social)](https://github.com/leonardomuller1)
